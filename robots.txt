@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tv.score808.my.id/sitemap.xml
